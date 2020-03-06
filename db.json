@@ -14,5 +14,13 @@
   "EE854CW":
     {
       "hasCoverage": false
+    },
+  "FJ474AK":
+    {
+      "hasCoverage": true
+    },
+  "RTF123":
+    {
+      "hasCoverage": true
     }
 }
