@@ -2,9 +2,7 @@
   "EA300QQ": 
     {
       "hasCoverage": true,
-      "coverage": [
-        { "label": "RT" }, { "label": "2nd year driveline" }, { "label": "300 000km's"}
-        ]
+      "coverageList": ["RT", "2nd year driveline", "300 000km's"]
     },
   "EA568RP":
     {
@@ -17,15 +15,11 @@
   "FJ474AK":
     {
       "hasCoverage": true,
-       "coverage": [
-        { "label": "RT" }, { "label": "2nd year driveline" }
-        ]
+       "coverageList": ["RT", "2nd year driveline"]
     },
   "RTF123":
     {
       "hasCoverage": true,
-       "coverage": [
-         { "label": "300 000km's"}
-        ]
+       "coverageList": ["300 000km's"]
     }
 }
