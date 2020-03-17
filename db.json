@@ -20,6 +20,6 @@
   "RTF123":
     {
       "hasCoverage": true,
-       "coverageList": ["300 000km's"]
+       "coverageList": ["RT", "2nd year driveline", "300 000km's"]
     }
 }
