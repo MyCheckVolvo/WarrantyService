@@ -16,14 +16,14 @@
     },
   "FJ474AK":
     {
-      "hasCoverage": true
+      "hasCoverage": true,
        "coverage": [
         { "label": "RT" }, { "label": "2nd year driveline" }
         ]
     },
   "RTF123":
     {
-      "hasCoverage": true
+      "hasCoverage": true,
        "coverage": [
          { "label": "300 000km's"}
         ]
